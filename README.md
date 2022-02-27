@@ -10,7 +10,7 @@
 
 🤓Love to invest time in learning new things about technology, psychology and spirituality
 
-🏅Skills: Python | R | Machine Learning | Keras | Data Analysis | Data Visualization | Big Data | SQL | MS Excel   | NLP | Statistics | Probability
+🏅Skills: Python | Machine Learning | Data Analysis | Data Visualization | Tableau | SQL | NLP | Statistics 
 
 ## Connect with me on 📫
 <a href="https://www.linkedin.com/in/mitali-sahu-97a3721b2?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BQWlyYi2URjeYxHwAfRn99A%3D%3D"><img src="https://user-images.githubusercontent.com/66302933/121804980-bb894c80-cc66-11eb-8e58-8efc3d6c5dba.png" width="35"></a>
