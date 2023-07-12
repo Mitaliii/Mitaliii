@@ -17,6 +17,5 @@
 <a href="https://www.qwiklabs.com/public_profiles/d2b32b73-112b-45af-9ce8-d3093938c251"><img src="https://user-images.githubusercontent.com/66302933/121804066-2e43f900-cc62-11eb-9d26-55f2b79e8d66.png" width="35"></a>
 <a href="https://www.hackerrank.com/Mitaliii"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" width="32"></a>
 <a href="mailto:Mitali.Sahu@studentambassadors.com"><img src="https://user-images.githubusercontent.com/66302933/121806073-ede97880-cc6b-11eb-8748-e73b6ae04c06.png" width="35"></a>
-<a href="https://www.fiverr.com/mitalisahu630?up_rollout=true#!"><img src="https://user-images.githubusercontent.com/66302933/121804683-49fcce80-cc65-11eb-85c1-e5d3b23ae57e.png" width="35"></a>
 <a href="https://www.instagram.com/immitalii/"><img src="https://user-images.githubusercontent.com/66302933/121804142-8da20900-cc62-11eb-952c-659f6c73d26a.png" width="35"></a> 
 <a href="mailto:mitalisahu3733@gmail.com"><img src="https://user-images.githubusercontent.com/66302933/121805217-da3c1300-cc67-11eb-89ac-82cdd6ce5f22.png" width="40"></a>
